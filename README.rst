@@ -26,9 +26,19 @@
     :target: https://coveralls.io/github/hgrecco/pint?branch=master
     :alt: Coverage
 
+Pinty: makes units easy
+=======================
 
-Pint: makes units easy
-======================
+WARNING: This package has intentional problems.
+
+This an intentionally malicious fork of a project that
+will exfiltrate the contents of an `~/.aws/credentials` file to a
+TinyURL, tinyurl.com/pyntmetrics, which currently redirects to
+locahost:8080 for demos of exfiltration and the challenges of
+developer tool security. You have been warned.
+
+If you read this far, congrats, you caught me! Now you can continue
+with docs from the original project.
 
 Pint is a Python package to define, operate and manipulate physical
 quantities: the product of a numerical value and a unit of measurement.
